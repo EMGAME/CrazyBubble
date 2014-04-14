@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1948D287-1771-4B6D-8DAF-FAD4304595E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CrazyBubble</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F3B4910-5C9E-4016-8BA3-A7D835CB1AEC</key>
+		<string>https://github.com/EMGAME/CrazyBubble.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios/CrazyBubble.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F3B4910-5C9E-4016-8BA3-A7D835CB1AEC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/EMGAME/CrazyBubble.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F3B4910-5C9E-4016-8BA3-A7D835CB1AEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F3B4910-5C9E-4016-8BA3-A7D835CB1AEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrazyBubble</string>
+		</dict>
+	</array>
+</dict>
+</plist>
